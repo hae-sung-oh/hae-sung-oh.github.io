@@ -8,7 +8,7 @@ title: Projects
 * **Autonomous Recycle Robot (Dudaji Company Internship)**, Jul 2022 ~ Aug 2022
   * 6-joints-robot that classifies and does pick-and-place trashes by using ROS, Deep Learning, and computer vision
   * Role: Robot detection in camera, Robot movement management via ROS, and Pick-and-place logic development
-  ![Video](assets/video/bmi_pnp.gif)
+  ![텍스트](assets/video/bmi_pnp.gif)
   <img width="80%" src="assets/video/bmi_pnp.gif>
 
 * **Autonomous Delivery Mobile Robot: Duckpod ver. 3 (SNU ARI Lab Internship)**, _"Advisor: Sungwoo Kim"_, Dec 2021 ~ Feb 2022
@@ -22,7 +22,7 @@ title: Projects
   [Paper](assets/pdf/Autonomous%20Parking%20Simulation%20Using%20Reinforcement%20Learning.pdf)
 
 * **Autonomous Drone**, _"Advisor: Suhee Han"_ Feb 2021 ~ Jun 2021
-  *Drone that drives autonomously with avoiding obstacle and terrain and comes back safely using ultra sonic sensors
+  * Drone that drives autonomously with avoiding obstacle and terrain and comes back safely using ultra sonic sensors
   ![Video](assets\video\autodrone.gif)
 
 * **Auto Training Routine Recording System**, _"Advisor: Chulhong Kim"_ Sep 2020 ~ Dec 2020
