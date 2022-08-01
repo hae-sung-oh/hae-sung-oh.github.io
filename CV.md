@@ -10,36 +10,31 @@ title: CV
 <br/>
 
 # Education
- ### POSTECH, Feb 2016 ~ Feb 2023
+### POSTECH, Feb 2016 ~ Feb 2023
   * #### B.S. in Creative IT Engineering
-<br/>
 
- ### UC Berkeley, Jun 2017 ~ Dec 2017
+### UC Berkeley, Jun 2017 ~ Dec 2017
   * #### Exchange student
-<br/>
 
- ### Seoul Science High School, 2013 to 2015
+### Seoul Science High School, 2013 to 2015
+
 <br/>
 
 # Major Courses (Selected)
 **Creative IT Engineering (in POSTECH)**
    * Creative IT Design I ~ IV, Creative IT Advanced Lecture: Robotics Introduction, Data Structure and Algorithm
 
-<br/>
-
 **Mechanical Engineering (in POSTECH)**
    * Artificial Intelligence, System Control, Differential Equation, Dynamics
 
-<br/>
-
 **Other Academic Courses**
    *  Hyundai H-Mobility Class: Autonomous Car Class (in Hyundai Motors)
+
 <br/>
 
 
 # Honor and Award (Selected)
 **Creative ICT Scholarship Feb 2016 ~ Dec 2021**
-<br/>
 
 **[Korea Art Management Service: ART Hack-A-Thon May 2018](/arthack.md)**
    *  Excellence Prize: Art and coding education using drones for the next generation
