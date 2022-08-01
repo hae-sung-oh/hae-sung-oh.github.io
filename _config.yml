@@ -1,26 +1,24 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Chanwoo Park
+title: Haesung Oh
 
 # [수정필요] 간단한 사이트 설명
-description: Acedemic Website of Chanwoo Park
+description: Portfolio homepage of Haesung Oh
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Chanwoo park
+author: Haesung Oh
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   CV: "CV"
-  Publication: "publication"
-  GitHub: "https://github.com/chanwoo-park-official"
-  Google Scholar: "https://scholar.google.com/citations?hl=en&authuser=2&user=FDG3_JMAAAAJ"
-  Blog (Korean): "https://chanwoopark.tistory.com"
+  Projects: "projects"
+  GitHub: "https://github.com/hae-sung-oh"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/profile.png"
+avatar: "/assets/img/final.png"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
 
@@ -35,19 +33,19 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "cpark97@mit.edu"
-  github: chanwoo-park-official
+  email: "ohs980111@gmail.com"
+  github: hae-sung-oh
 #  linkedin: chanwoo-park
-  twitter: chanwoopark20
+  # twitter: chanwoopark20
 #  rss: true
 #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+ instagram: haesung_oh
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+ telephone: (+82)10-3042-1478
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
