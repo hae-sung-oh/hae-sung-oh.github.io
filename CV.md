@@ -42,19 +42,19 @@ title: CV
 <br/>
 
 # Skills
-Python (★★★★☆)
+Python (★★★★★)
 
-C++/C# (★★★★☆)
+C++/C# (★★★★★)
 
-Git (★★★☆☆)
+Git (★★★★☆)
 
-ROS (★★★☆☆)
+ROS (★★★★☆)
 
-Unity (★★★☆☆)
+Unity (★★★★☆)
 
-Fusion 360 (★★★☆☆)
+Fusion 360 (★★★★☆)
 
-AutoCAD (★★☆☆☆)
+AutoCAD (★★★☆☆)
 
 <br/>
 
