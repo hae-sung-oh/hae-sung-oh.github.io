@@ -6,7 +6,7 @@ title: Creative IT Camp
 # About Creative IT Camp
 POSTECH Creative IT Engineering hold academic camps every summer session for high school students.
 
-I volunteered as a team leader, photographer, and video editor on 2016, and 2018.
+I have volunteered as a team leader, photographer, and video editor on 2016, and 2018.
 
 <br/>
 

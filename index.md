@@ -16,6 +16,7 @@ My research interests are:
 * **Decision making with AI-Based Approach using Deep Learning for Autonomous Vehicles/Robots**
 * **Autonomy optimization using V2X communication technology**
 * **Autonomy simulation using Reinforcement Learning**
+* **Autonomous Parking System**
 
 
 <br/>
