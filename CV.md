@@ -25,7 +25,7 @@ title: CV
    * Creative IT Design I ~ IV, Creative IT Advanced Lecture: Robotics Introduction, Data Structure and Algorithm
 
 **Mechanical Engineering (in POSTECH)**
-   * Artificial Intelligence, System Control, Differential Equation, Dynamics
+   * Adv. Artificial Intelligence for M.E, Artificial Intelligence for M.E, System Control, Differential Equation, Dynamics
 
 **Other Academic Courses**
    *  Hyundai H-Mobility Class: Autonomous Car Class (in Hyundai Motors)
@@ -70,7 +70,7 @@ AutoCAD (★★★☆☆)
 * Team leader, Instructor, and photographer
 
 **[POSTECH Baseball Club: Tachyons](/baseball.md)**
-* Catcher
+* Catcher and Firstbase man
 
 **[POSTECH Musical Club: OPCA](/opca.md)**
 * Actor, Played a musical named ‘Laundry’ as a main character
