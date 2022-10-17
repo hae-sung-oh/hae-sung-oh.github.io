@@ -5,7 +5,7 @@ title: CV
 
 <br/>
 
-## [PDF](/assets/pdf/Resume_Haesung%20Oh.pdf)
+## [PDF](/assets/pdf/HaesungOh_CV.pdf)
 
 <br/>
 
@@ -16,7 +16,6 @@ title: CV
 ### UC Berkeley, Jun 2017 ~ Dec 2017
   * #### Exchange student
 
-### Seoul Science High School, 2013 to 2015
 
 <br/>
 

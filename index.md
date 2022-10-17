@@ -14,9 +14,8 @@ I'm **Haesung Oh**,  an undergraduate student of POSTECH.
 My research interests are:
 * **Autonomous Vehicles/Robots**
 * **Decision making with AI-Based Approach using Deep Learning for Autonomous Vehicles/Robots**
-* **Autonomy optimization using V2X communication technology**
-* **Autonomy simulation using Reinforcement Learning**
-* **Autonomous Parking System**
+* **Autonomy optimization using Multi Agent Reinforcement Learning**
+* **Autonomy simulation**
 
 
 <br/>
