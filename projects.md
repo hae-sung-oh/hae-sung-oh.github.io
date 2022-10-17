@@ -9,6 +9,7 @@ title: Projects
 <br/>
 
 ### Decision Transformer VAE, Sep 2022 - Dec 2022
+* _Advisor: Seungchul Lee_
 * Deep reinforcement learning model in VAE inverse design manner
 * Trains decision transformer which is a sequence of reinforcement learning
 
@@ -28,15 +29,15 @@ converting algorithm from computer vision to robot coordinate, and collecting pl
 ![Video](/assets/video/duckpod.gif)
 * _Advisor: Sungwoo Kim_
 * 6-wheel, skid steering autonomous delivery robot for SNU campus
-– Contributed as a simulation software engineer, optimized robot mobility and autonomy by simulator
+* Contributed as a simulation software engineer, optimized robot mobility and autonomy by simulator
 
 <br/>
 
 ### Autonomous Parking Simulation, Sep 2021 ~ Dec 2021
 ![Video](/assets\video\AutoPark.gif) 
 * _Advisor: Suhee Han_
-– Using Unity ML-Agent and reinforcement learning to simulate and visualize autonomous parking
-– Trained an average of 8 million episodes for the front, parallel, and diagonal parking situations respectively  
+* Using Unity ML-Agent and reinforcement learning to simulate and visualize autonomous parking
+* Trained an average of 8 million episodes for the front, parallel, and diagonal parking situations respectively  
 * [PDF](/assets/pdf/Autonomous%20Parking%20Simulation%20Using%20Reinforcement%20Learning.pdf)  
 * [Program Download](https://drive.google.com/file/d/1nP-ikZiklXb_1zPpwrG-GXffE2ixzpMr/view?usp=sharing)
 
@@ -45,8 +46,8 @@ converting algorithm from computer vision to robot coordinate, and collecting pl
 ### Autonomous Drone, Feb 2021 ~ Jun 2021
 ![Video](/assets\video\autodrone.gif)
 * _Advisor: Suhee Han_ 
-– Drone that drives autonomously with avoiding obstacle and terrain and comes back safely using ultra sonic sensors
-– Targets to explore an extreme environment based on a rule-based approach which are dependent on obstacle conditions
+* Drone that drives autonomously with avoiding obstacle and terrain and comes back safely using ultra sonic sensors
+* Targets to explore an extreme environment based on a rule-based approach which are dependent on obstacle conditions
 * [PDF(to do)]()
 
 <br/>
