@@ -26,7 +26,7 @@ converting algorithm from computer vision to robot coordinate, and collecting pl
 <br/>
 
 ### Autonomous Delivery Mobile Robot: Duckpod ver. 3 (SNU ARI Lab Internship), Dec 2021 ~ Feb 2022
-![Video](/assets/video/duckpod.gif)
+![Video](/assets/video/duckpod_intergrated.gif)
 * _Advisor: Sungwoo Kim_
 * 6-wheel, skid steering autonomous delivery robot for SNU campus
 * Contributed as a simulation software engineer, optimized robot mobility and autonomy by simulator
@@ -56,6 +56,6 @@ converting algorithm from computer vision to robot coordinate, and collecting pl
 ![Video](/assets\video\autorecoder.gif)
 * _Advisor: Chulhong Kim_
 * Detects human pose to get exercise, repeats, and sets automatically for weight training using computer vision
-* [PDF(to do)](/assets/pdf/Auto%20Training%20Routine%20Recoding%20System.pdf)
+* [PDF](/assets/pdf/Auto%20Training%20Routine%20Recoding%20System.pdf)
 
 <br/>
