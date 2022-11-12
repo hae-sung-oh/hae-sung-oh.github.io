@@ -48,7 +48,7 @@ converting algorithm from computer vision to robot coordinate, and collecting pl
 * _Advisor: Suhee Han_ 
 * Drone that drives autonomously with avoiding obstacle and terrain and comes back safely using ultra sonic sensors
 * Targets to explore an extreme environment based on a rule-based approach which are dependent on obstacle conditions
-* [PDF(to do)]()
+* [PDF](/assets/pdf/Autonomous%20Drone.pdf)
 
 <br/>
 
@@ -56,6 +56,6 @@ converting algorithm from computer vision to robot coordinate, and collecting pl
 ![Video](/assets\video\autorecoder.gif)
 * _Advisor: Chulhong Kim_
 * Detects human pose to get exercise, repeats, and sets automatically for weight training using computer vision
-* [PDF(to do)]()
+* [PDF(to do)](/assets/pdf/Auto%20Training%20Routine%20Recoding%20System.pdf)
 
 <br/>
