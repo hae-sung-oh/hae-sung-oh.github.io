@@ -59,8 +59,9 @@ AutoCAD (★★★☆☆)
 
 # Extra-Curricular Experiences
 
-**[Military Service](/military-service.md)**
-* Republic of Korea Airforce: Military residence management Airman
+**[Military Service: Republic of Korea Airforce](/military-service.md)**
+* Military residence management Airman
+* A representative of Airmen
 
 **[Berkeley Media Club: Berkast](/berkast.md)**
 * Actor, Cinemaphotographer, and Video editor
@@ -70,6 +71,7 @@ AutoCAD (★★★☆☆)
 
 **[POSTECH Baseball Club: Tachyons](/baseball.md)**
 * Catcher and Firstbase man
+* Team Captain
 
 **[POSTECH Musical Club: OPCA](/opca.md)**
 * Actor, Played a musical named ‘Laundry’ as a main character
