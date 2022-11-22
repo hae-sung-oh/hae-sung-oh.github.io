@@ -8,10 +8,10 @@ title: Projects
 
 <br/>
 
-### Decision Transformer VAE, Sep 2022 - Dec 2022
+### Metal-Organic Frameworks Feature Regression, Sep 2022 - Dec 2022
 * _Advisor: Seungchul Lee_
-* Deep reinforcement learning model in VAE inverse design manner
-* Trains decision transformer which is a sequence of reinforcement learning
+* Regression model that predicts features of MOF in an inverse design manner
+* Optimizes the regression model by tuning hyperparameters
 
 
 <br/>
