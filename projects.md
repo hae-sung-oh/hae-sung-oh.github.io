@@ -10,8 +10,9 @@ title: Projects
 
 ### Metal-Organic Frameworks Feature Regression, Sep 2022 - Dec 2022
 * _Advisor: Seungchul Lee_
-* Regression model that predicts features of MOF in an inverse design manner
-* Optimizes the regression model by tuning hyperparameters
+* Regression model that predicts the properties of MOF in an inverse design manner
+* Optimizes the regression model by tuning hyperparameters automatically
+* [Project Link](https://github.com/hae-sung-oh/MOF_regressor)
 
 
 <br/>
