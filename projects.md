@@ -12,7 +12,7 @@ title: Projects
 * _Advisor: Seungchul Lee_
 * Regression model that predicts the properties of MOF in an inverse design manner
 * Optimizes the regression model by tuning hyperparameters automatically
-* [Project Link](https://github.com/hae-sung-oh/MOF_regressor)
+* [Project Repository Link](https://github.com/hae-sung-oh/MOF_regressor)
 
 
 <br/>
@@ -31,6 +31,7 @@ converting algorithm from computer vision to robot coordinate, and collecting pl
 * _Advisor: Sungwoo Kim_
 * 6-wheel, skid steering autonomous delivery robot for SNU campus
 * Contributed as a simulation software engineer, optimized robot mobility and autonomy by simulator
+* [Project Repository Link](https://github.com/hae-sung-oh/duckpod_simulation_SNU_ARIL)
 
 <br/>
 
@@ -39,7 +40,8 @@ converting algorithm from computer vision to robot coordinate, and collecting pl
 * _Advisor: Suhee Han_
 * Using Unity ML-Agent and reinforcement learning to simulate and visualize autonomous parking
 * Trained an average of 8 million episodes for the front, parallel, and diagonal parking situations respectively  
-* [PDF](/assets/pdf/Autonomous%20Parking%20Simulation%20Using%20Reinforcement%20Learning.pdf)  
+* [PDF](/assets/pdf/Autonomous%20Parking%20Simulation%20Using%20Reinforcement%20Learning.pdf)
+* [Project Repository Link](https://github.com/hae-sung-oh/AutoParkSimulation)
 * [Program Download](https://drive.google.com/file/d/1nP-ikZiklXb_1zPpwrG-GXffE2ixzpMr/view?usp=sharing)
 
 <br/>
