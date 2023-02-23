@@ -9,7 +9,7 @@ cover-img: /assets/img/main.jpg
 
 ## About me
 
-I'm **Haesung Oh**,  an undergraduate student of POSTECH. 
+I'm **Haesung Oh**,  and I have graduated from POSTECH. 
 
 My research interests are:
 * **Autonomous Vehicles/Robots**

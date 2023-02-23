@@ -16,6 +16,8 @@ title: CV
 ### UC Berkeley, Jun 2017 ~ Dec 2017
   * #### Exchange student
 
+### Seoul Science Highschool, Feb 2013 ~ Feb 2016
+
 
 <br/>
 
