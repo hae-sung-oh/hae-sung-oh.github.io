@@ -15,6 +15,7 @@ navbar-links:
   Main: "index"
   CV: "CV"
   Projects: "projects"
+  Blog: "https://blog.naver.com/haesung_oh"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
@@ -43,6 +44,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
   instagram: haesung_oh
+  instagram: haesung__photo
 #  youtube: user/deanat78
 #  spotify: yourname
   telephone: (+82)10-3042-1478
