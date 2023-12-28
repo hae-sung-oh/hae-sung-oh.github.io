@@ -2,7 +2,7 @@
 layout: page
 title: Haesung Oh
 subtitle: Seoul National University
-cover-img: /assets/img/Profile.jpg
+cover-img: /assets/img/main.jpg
 ---
 
 <br/>
