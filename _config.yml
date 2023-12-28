@@ -15,6 +15,7 @@ navbar-links:
   Main: "index"
   CV: "CV"
   Projects: "projects"
+  DYROS: "http://dyros.snu.ac.kr/"
   Blog: "https://blog.naver.com/haesung_oh"
 
 

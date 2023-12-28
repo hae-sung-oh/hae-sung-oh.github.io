@@ -13,6 +13,8 @@ I'm **Haesung Oh**,  a graduate student of Seoul National University, South Kore
 
 I am currently in the Master's program of the Interdisciplinary Artificial Intelligence Program, SNU Engineering Department.
 
+I am a member of [Dynamic Robotic Systems Lab (DYROS Lab)](http://dyros.snu.ac.kr/).
+
 My research interests are:
 * **Autonomous Vehicles**
     * **End-to-End Autonomous Driving using Deep Learning**
