@@ -10,6 +10,8 @@ title: CV
 <br/>
 
 # Education
+### Seoul National University, Feb 2024 ~ Current
+  * #### M.S. in Interdisciplinary Program in AI, Engineering Department
 ### POSTECH, Feb 2016 ~ Feb 2023
   * #### B.S. in Creative IT Engineering
 

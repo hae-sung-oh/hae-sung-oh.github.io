@@ -1,21 +1,22 @@
 ---
 layout: page
 title: Haesung Oh
-subtitle: POSTECH
-cover-img: /assets/img/main.jpg
+subtitle: Seoul National University
+cover-img: /assets/img/Profile.jpg
 ---
 
 <br/>
 
 ## About me
 
-I'm **Haesung Oh**,  and I have graduated from POSTECH. 
+I'm **Haesung Oh**,  a graduate student of Seoul National University, South Korea.
+
+I am currently in the Master's program of the Interdisciplinary Artificial Intelligence Program, SNU Engineering Department.
 
 My research interests are:
-* **Autonomous Vehicles/Robots**
-* **Decision making with AI-Based Approach using Deep Learning for Autonomous Vehicles/Robots**
-* **Autonomy optimization using Multi Agent Reinforcement Learning**
-* **Autonomy simulation**
+* **Autonomous Vehicles**
+    * **End-to-End Autonomous Driving using Deep Learning**
+    * **Autonomy simulations**
 
 
 <br/>
@@ -23,4 +24,4 @@ My research interests are:
 
 ## Contact
 
-[Email: ohs980111@gmail.com](ohs980111@gmail.com)
+[Email: haesungoh@snu.ac.kr](haesungoh@snu.ac.kr)
