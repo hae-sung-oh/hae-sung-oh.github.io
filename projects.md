@@ -6,6 +6,19 @@ title: Projects
 
 # Research Projects
 
+### Vehicle Adaptation for End-to-end Autonomous Driving using Physics Informed Neural Network, Aug 2024 - Current
+* *Advisor: Jaeheung Park*
+* Robust vehicle adaptation of an end-to-end autonomous driving AI model
+* Physical dimensions are parameterized to predict corresponding control output for various vehicle models
+
+### South Korean Ministry of Trade, Industry and Energy - Alchemist Project: Next Generation Humanoid, Jul 2024 - Current
+<div class="youtubeWrap">
+    <iframe src="https://www.youtube.com/embed/quQR3vQW8H4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+* _Advisor: Jaeheung Park_
+* Contribution to LLM-Humanoid connection for human-robot interaction
+
 <br/>
 
 ### Alley 3D reconstruction AI model for fire trucks (Dudaji Start-up Company), Apr 2023 - Jul 2023

@@ -12,11 +12,12 @@ title: CV
 # Education
 ### Seoul National University, Feb 2024 ~ Current
   * #### M.S. in Interdisciplinary Program in AI, Engineering Department
+  * #### [Dynamic Robotic Systems Lab (DYROS Lab)](http://dyros.snu.ac.kr/) *Advisor: Jaeheung Park*
+
 ### POSTECH, Feb 2016 ~ Feb 2023
   * #### B.S. in Creative IT Engineering
-
-### UC Berkeley, Jun 2017 ~ Dec 2017
-  * #### Exchange student
+      ### UC Berkeley, Jun 2017 ~ Dec 2017
+      * #### Exchange student
 
 ### Seoul Science Highschool, Feb 2013 ~ Feb 2016
 
@@ -37,7 +38,11 @@ title: CV
 
 
 # Honor and Award (Selected)
-**Creative ICT Scholarship Feb 2016 ~ Dec 2021**
+**AI Fellowship Scholarship, Feb 2024 - Feb 2026**
+   * Seoul National University scholarship with Artificial Intelligence Graduate School Council 
+
+**Creative ICT Scholarship, Feb 2016 ~ Dec 2021**
+   *  MSIT(Ministry of Science and ICT), Korea, under the ICT Creative Consilience program
 
 **[Korea Art Management Service: ART Hack-A-Thon May 2018](/arthack.md)**
    *  Excellence Prize: Art and coding education using drones for the next generation
@@ -48,6 +53,8 @@ title: CV
 Python (★★★★★)
 
 C++/C# (★★★★★)
+
+CARLA (★★★★★)
 
 Git (★★★★☆)
 

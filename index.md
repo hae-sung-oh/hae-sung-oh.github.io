@@ -17,8 +17,8 @@ I am a member of [Dynamic Robotic Systems Lab (DYROS Lab)](http://dyros.snu.ac.k
 
 My research interests are:
 * **Autonomous Vehicles**
-    * **End-to-End Autonomous Driving using Deep Learning**
-    * **Autonomy simulations**
+    * **End-to-End Autonomous Driving**
+    * **Learning-based Autonomous Driving**
 
 
 <br/>
