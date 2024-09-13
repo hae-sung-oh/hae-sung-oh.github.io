@@ -11,6 +11,8 @@ title: Projects
 * Robust vehicle adaptation of an end-to-end autonomous driving AI model
 * Physical dimensions are parameterized to predict corresponding control output for various vehicle models
 
+<br/>
+
 ### South Korean Ministry of Trade, Industry and Energy - Alchemist Project: Next Generation Humanoid, Jul 2024 - Current
 <div class="youtubeWrap">
     <iframe src="https://www.youtube.com/embed/quQR3vQW8H4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

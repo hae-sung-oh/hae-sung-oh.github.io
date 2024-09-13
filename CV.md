@@ -16,8 +16,9 @@ title: CV
 
 ### POSTECH, Feb 2016 ~ Feb 2023
   * #### B.S. in Creative IT Engineering
-      ### UC Berkeley, Jun 2017 ~ Dec 2017
-      * #### Exchange student
+  
+### UC Berkeley, Jun 2017 ~ Dec 2017
+* #### Exchange student
 
 ### Seoul Science Highschool, Feb 2013 ~ Feb 2016
 
