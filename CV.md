@@ -39,6 +39,9 @@ title: CV
 
 
 # Honor and Award (Selected)
+**HOPE Scholarship, Dec 2024 ~ Dec 2027**
+   * Ilun Science & Technology Foundation
+
 **AI Fellowship Scholarship, Feb 2024 - Feb 2026**
    * Seoul National University scholarship with Artificial Intelligence Graduate School Council 
 

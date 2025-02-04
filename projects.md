@@ -6,10 +6,10 @@ title: Projects
 
 # Research Projects
 
-### Vehicle Adaptation for End-to-end Autonomous Driving using Physics Informed Neural Network, Aug 2024 - Current
+### Multi Vehicle Adaptation for E2E Autonomous Driving, Aug 2024 - Current
 * *Advisor: Jaeheung Park*
 * Robust vehicle adaptation of an end-to-end autonomous driving AI model
-* Physical dimensions are parameterized to predict corresponding control output for various vehicle models
+* Physical dimensions are parameterized to predict corresponding waypoints for various vehicle models
 
 <br/>
 
