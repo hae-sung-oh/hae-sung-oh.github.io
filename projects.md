@@ -6,14 +6,23 @@ title: Projects
 
 # Research Projects
 
-### Multi Vehicle Adaptation for E2E Autonomous Driving, Aug 2024 - Current
+### MVAdapt: Multi Vehicle Adaptation for E2E Autonomous Driving, Aug 2024 - DEc 2025
+![Photo](assets/img/mvadaptarch.png)
 * *Advisor: Jaeheung Park*
 * Robust vehicle adaptation of an end-to-end autonomous driving AI model
 * Physical dimensions are parameterized to predict corresponding waypoints for various vehicle models
+* Achieved zero-shot adaptation and few-shot fine-tuning adaptation to unseen vehicle models
+* [Paper](assets/pdf/MVAdapt_Zero_Shot_Multi_Vehicle_Adaptation_for_End_to_End_Autonomous_Driving.pdf), [Git](https://github.com/hae-sung-oh/MVAdapt), [Youtube](https://www.youtube.com/watch?v=evFGHXB_lE0)
 
 <br/>
 
-### South Korean Ministry of Trade, Industry and Energy - Alchemist Project: Next Generation Humanoid, Jul 2024 - Current
+### Comfort Optimization for E2E Autonomous Driving using RL adapter, Mar 2025 - Oct 2025
+* *Advisor: Kichun Jo*
+* Developed a PPO-based RL adapter to optimize the driving comfort of a baseline E2E planner within nuPlan simulation
+
+<br/>
+
+### South Korean Ministry of Trade, Industry and Energy - Alchemist Project: Next Generation Humanoid, Jul 2024 - Dec 2024
 <div class="youtubeWrap">
     <iframe src="https://www.youtube.com/embed/quQR3vQW8H4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

@@ -10,7 +10,7 @@ title: CV
 <br/>
 
 # Education
-### Seoul National University, Feb 2024 ~ Current
+### Seoul National University, Feb 2024 ~ Feb 2026
   * #### M.S. in Interdisciplinary Program in AI, Engineering Department
   * #### [Dynamic Robotic Systems Lab (DYROS Lab)](http://dyros.snu.ac.kr/) *Advisor: Jaeheung Park*
 
@@ -22,6 +22,24 @@ title: CV
 
 ### Seoul Science Highschool, Feb 2013 ~ Feb 2016
 
+<br/>
+
+# Working Experiences
+### Dudaji, Apr 2023 - Aug 2023
+- AI Engineer
+### Dudaji, Jul 2022 - Aug 2022
+
+<br/>
+
+# Teaching Experiences
+### AI Instructor, Sep 2025 - Oct 2025
+- GenAI lecturer for Samsung Electronics DS Division
+### AI Instructor, Jul 2025 - Aug 2025
+- GenAI lecturer for Hansae Co., Ltd. Leadership Program in DX
+### AI Instructor, Jun 2025 - Jul 2025
+- GenAI lecturer for KakaoPay AI Capability-Building Workshop
+### AI Head Technical Coach, Jun 2025
+- 2025 POSCO Group WX ZeroTon — led technical coaching for LLM-based projects
 
 <br/>
 
